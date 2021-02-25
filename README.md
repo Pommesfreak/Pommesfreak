@@ -1,2 +1,2 @@
-### Free Encounter Tool
+### Free Counter Tool (programmed for Pokémon Shiny Encounter)
 
