@@ -1,2 +1,2 @@
-### Freen Encounter Tool
+### Free Encounter Tool
 
